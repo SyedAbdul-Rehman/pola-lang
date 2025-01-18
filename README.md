@@ -105,7 +105,7 @@ mera_naam()
 
 I’d like to thank someone important for their unwavering support and for keeping me motivated:
 
-- [Hafiza](https://github.com/hafeeza9229) - For your quiet encouragement and motivation, which kept me focused on completing this project.
+- [Hafeeza](https://github.com/hafeeza9229) - For your quiet encouragement and motivation, which kept me focused on completing this project.
 
 Thank you for helping make this project a reality!
 
