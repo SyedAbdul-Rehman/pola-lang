@@ -77,7 +77,7 @@ pola-lang allows you to use Urdu keywords in place of common Python constructs. 
 | wapis                   | return                  |
 | parho                   | read                    |
 | likho                   | write                   |
-| agay liko               | append_to_file          |
+| agay likho               | append_to_file          |
 | bnao folder             | make_folder             |
 
 
@@ -88,10 +88,10 @@ In addition to standard Python functions, pola-lang includes several custom func
 | Function Name           | Description                                  |
 |-------------------------|----------------------------------------------|
 | `jod(a, b)`             | Adds two values.                             |
-| `read(file_path)`       | Reads the contents of a file.               |
-| `write(file_path, content)` | Writes content to a file.                 |
-| `append_to_file(file_path, text)` | Appends text to a file.           |
-| `make_folder(folder_name)` | Creates a new folder.                      |
+| `parho(file_path)`       | Reads the contents of a file.               |
+| `likho(file_path, content)` | Writes content to a file.                 |
+| `agay likho(file_path, text)` | Appends text to a file.           |
+| `bnao folder(folder_name)` | Creates a new folder.                      |
 
 ### Example usage:
 
@@ -101,6 +101,13 @@ bnao mera_naam():
 
 mera_naam()
 ```
+## Contributors
+
+I’d like to thank someone important for their unwavering support and for keeping me motivated:
+
+- [Hafiza](https://github.com/hafeeza9229) - For your quiet encouragement and motivation, which kept me focused on completing this project.
+
+Thank you for helping make this project a reality!
 
 ## Contributing
 
@@ -119,12 +126,6 @@ If you have any questions, feel free to reach out to us through GitHub or contac
 Email: [nawazabdulrehman7@gmail.com](mailto:your-email@example.com)
 
 
-## Contributors
 
-I’d like to thank someone important for their unwavering support and for keeping me motivated:
-
-- [Hafiza](https://github.com/hafeeza9229) - For your quiet encouragement and motivation, which kept me focused on completing this project.
-
-Thank you for helping make this project a reality!
 
 
