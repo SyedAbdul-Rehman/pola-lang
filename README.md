@@ -35,7 +35,7 @@ You should see the version number of your pola-lang interpreter.
 Create a new file with the `.pola` extension, e.g., `hello_world.pola` , and write your first program:
 
 ```
-kr do "Hello, World!"
+kr do ("Hello, World!")
 ```
 
 ### Step 4: Run the Program
@@ -77,7 +77,7 @@ pola-lang allows you to use Urdu keywords in place of common Python constructs. 
 | wapis                   | return                  |
 | parho                   | read                    |
 | likho                   | write                   |
-| agay likho               | append_to_file          |
+| agay liko               | append_to_file          |
 | bnao folder             | make_folder             |
 
 
@@ -97,7 +97,7 @@ In addition to standard Python functions, pola-lang includes several custom func
 
 ```
 bnao mera_naam():
-    kr do "Mera naam pola-lang hai!"
+    kr do ("Mera naam pola-lang hai!")
 
 mera_naam()
 ```
