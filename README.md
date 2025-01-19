@@ -4,7 +4,7 @@
 
 ## Features
 
-- **Urdu-based Syntax**: Write code using familiar Urdu words.
+- **Urdu-based Syntax**: Write code using familiar Urdu words. And you can write code in python also. All method and modules of python will work in it
 - **Simple Interpreter**: Execute `.pola` files directly from the terminal.
 - **Custom Functions**: Use built-in functions like `jod`, `read`, `write`, etc.
 - **Easy Setup**: Installation package that automatically installs Python and sets up everything.
